@@ -1,1 +1,1 @@
-"# Data-Mining-Course" 
+Repository for the "Data Mining" course.
